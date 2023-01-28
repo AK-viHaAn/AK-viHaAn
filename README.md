@@ -1,4 +1,3 @@
-![MasterHead]( https://s.hdnux.com/photos/01/04/42/24/17966349/19/rawImage.jpg)
 <h1 align="center">नमस्ते (Namaste) 🙏, I'm Anand - aka viHaAn from India🥰 .</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 

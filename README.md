@@ -34,7 +34,7 @@
 <br />
 <br />
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=AK-viHaAn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="AK-viHaAn" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AK-viHaAn&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ak-vihaan&show_icons=true&locale=en" alt="ak-vihaan" alt="AK-viHaAn" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AK-viHaAn&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 <h3 align="left">Wanna Appreciate me ?</h3>
 <p><a href="https://www.buymeacoffee.com/AKviHaAn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AKviHaAn" /></a></p><br><br>

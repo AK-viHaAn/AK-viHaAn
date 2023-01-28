@@ -1,19 +1,25 @@
-<h1 align="center">नमस्ते (Namaste) 🙏, I'm Anand - aka viHaAn from India🥰.</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h1 align="center">नमस्ते (Namaste) 🙏 , I'm Anand - aka viHaAn from India🥰.</h1>
+<h3 align="center">A passionate Graduate working towards a career as a Backend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-vihaan&label=Profile%20views&color=0e75b6&style=flat" alt="ak-vihaan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akvihaan&label=Profile%20views&color=0e75b6&style=flat" alt="akvihaan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ak-vihaan" alt="ak-vihaan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akvihaan" alt="akvihaan" /></a> </p>
 
-- 🔭 I’m currently working on **Building Career in Tech**
+- 🔭 I’m currently **Exploring, Learning and trying to Build a Career in Tech**
 
-- 🌱 I’m currently learning **Programming languages,frameWorks,libraries,Packages**
+- 🌱 I’m currently learning **Backend Development, using JavaScript, NodeJS and MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AK-viHaAn](https://github.com/AK-viHaAn)
+- 👨‍💻 All of my projects are available at [My GitHub Account you can checkout 👀👉 https://github.com/AK-viHaAn](My GitHub Account you can checkout 👀👉 https://github.com/AK-viHaAn)
 
-- 💬 Ask me about **HTML || CSS || JavaScript || NodeJS || GitHub || MongoDB || Reacts etc.**
+- 📝 I regularly write articles on [Personal Database that is in My Notebook](Personal Database that is in My Notebook)
+
+- 💬 Ask me about **JavaScript || NodeJS || GitHub || MongoDB || Reacts**
 
 - 📫 How to reach me **kanand2607755@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1FY3pWYc-SB4CgaYFnrgiSxFDs8RKR1WX?usp=share_link](https://drive.google.com/drive/folders/1FY3pWYc-SB4CgaYFnrgiSxFDs8RKR1WX?usp=share_link)
+
+- ⚡ Fun fact **I m "globetrotting music lover" who enjoys exploring new places and cultures, as well as listening to a wide variety of music genres.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,13 +28,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Wanna Appreciate me ?</h3>
 <p><a href="https://www.buymeacoffee.com/AKviHaAn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AKviHaAn" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak-vihaan&show_icons=true&locale=en&layout=compact" alt="ak-vihaan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akvihaan&show_icons=true&locale=en&layout=compact" alt="akvihaan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ak-vihaan&show_icons=true&locale=en" alt="ak-vihaan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akvihaan&show_icons=true&locale=en" alt="akvihaan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ak-vihaan&" alt="ak-vihaan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akvihaan&" alt="akvihaan" /></p>

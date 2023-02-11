@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=30&pause=1000&color=1EF7C2&background=6060600E&center=true&vCenter=true&repeat=false&width=435&lines=mere+Profile+Me+Apka+Swaagat+H+%F0%9F%98%87)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1000&color=17F7DF&center=true&width=1000&height=80&lines=Mere+Profile+Me+Apka+Swaagat+H+%F0%9F%98%87)](https://git.io/typing-svg)
 <h1 align="center">नमस्ते (Namaste) 🙏 , I'm Anand - aka viHaAn from India🥰.</h1>
 <h3 align="center">A passionate Graduate working towards a career as a Backend Developer</h3>
 

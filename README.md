@@ -18,7 +18,7 @@
 
 - 📫 You can reach me by Clicking 👉 **kanand2607755@gmail.com**
 
-- 📄 If you Want to Know about my experiences Click 👉 https://drive.google.com/drive/folders/1FY3pWYc-SB4CgaYFnrgiSxFDs8RKR1WX?usp=share_link
+- 📄 If you Want to Know about my experiences Click 👉 https://vihaan-ak.netlify.app/
 
 - ⚡ You Know What  **I m "globetrotting music lover" who enjoys exploring new places and cultures, as well as listening to a wide variety of music genres.**
 
